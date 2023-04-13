@@ -15,3 +15,9 @@ Personal collection of favorite things
 - Bors: 👁 A merge bot for GitHub Pull Requests - ([github.com/bors-ng](https://github.com/bors-ng/bors-ng))
   - self-hosted under `5 USD / month`
   - rust-lang variant in action: ([bors.rust-lang.org](https://bors.rust-lang.org/queue/rust))
+
+## Containers
+
+- [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
+- [k9s](https://github.com/derailed/k9s)
+- [ctop](https://github.com/bcicen/ctop)
